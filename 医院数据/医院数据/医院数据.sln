@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "医院数据", "医院数据.pyproj", "{8DE5FEB9-85C7-4634-9617-B2BDCCBFB9CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DE5FEB9-85C7-4634-9617-B2BDCCBFB9CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DE5FEB9-85C7-4634-9617-B2BDCCBFB9CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {669BFA9A-FD2A-4526-A6E5-68DAEB2EB9E9}
+	EndGlobalSection
+EndGlobal
